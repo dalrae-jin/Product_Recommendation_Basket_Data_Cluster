@@ -5,7 +5,7 @@ This project builds a product recommendation system using unsupervised learning 
 
 ## Dataset
 - Source: [Kaggle](https://www.kaggle.com/datasets/brendanartley/simplifiedinstacartdata)
-- files (size):
+- files (# of rows, # of columns):
   - products.csv (49688, 4)
   - orders.csv (3346083, 3)
   - all_order_products.csv (33819106, 3)
